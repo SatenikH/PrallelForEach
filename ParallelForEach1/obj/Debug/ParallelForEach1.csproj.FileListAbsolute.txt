@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\ACA_HOMEWORK\ParallelForEach1\ParallelForEach1\obj\Debug\ParallelForEach1.csprojAssemblyReference.cache
+C:\Users\User\Desktop\ACA_HOMEWORK\ParallelForEach1\ParallelForEach1\obj\Debug\ParallelForEach1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ACA_HOMEWORK\ParallelForEach1\ParallelForEach1\bin\Debug\ParallelForEach1.exe.config
+C:\Users\User\Desktop\ACA_HOMEWORK\ParallelForEach1\ParallelForEach1\bin\Debug\ParallelForEach1.exe
+C:\Users\User\Desktop\ACA_HOMEWORK\ParallelForEach1\ParallelForEach1\bin\Debug\ParallelForEach1.pdb
+C:\Users\User\Desktop\ACA_HOMEWORK\ParallelForEach1\ParallelForEach1\obj\Debug\ParallelForEach1.exe
+C:\Users\User\Desktop\ACA_HOMEWORK\ParallelForEach1\ParallelForEach1\obj\Debug\ParallelForEach1.pdb
